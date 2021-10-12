@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoovarasanSP14
-- 👀 I’m interested in Web design
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
